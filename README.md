@@ -3,7 +3,7 @@
 
 - 📝 I regularly write machine learning articles on [medium](medium.com/@kmelad43)
 
-- 📫 How to reach me **Kmelad43@gmail.com**
+- 📫 You can reach me via **Kmelad43@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BrjjIilZd2lvh9z2zZtawgVMR-ThBrX0/view?usp=sharing)
 
