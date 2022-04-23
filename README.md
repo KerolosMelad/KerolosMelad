@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keroles Elkess gerges</h1>
 <h3 align="center">A Junior Data Science from Egyot</h3>
 
-- 📝 I regularly write machine learning articles on [medium.com/@kmelad43](medium.com/@kmelad43)
+- 📝 I regularly write machine learning articles on [medium](medium.com/@kmelad43)
 
 - 📫 How to reach me **Kmelad43@gmail.com**
 
