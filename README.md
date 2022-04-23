@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keroles Elkess gerges</h1>
-<h3 align="center">A Junior Data Scientist from Egypt</h3>
+<h3 align="center">A Junior Data Science from Egyot</h3>
+
+- 📝 I regularly write machine learning articles on [medium.com/@kmelad43](medium.com/@kmelad43)
+
+- 📫 How to reach me **Kmelad43@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BrjjIilZd2lvh9z2zZtawgVMR-ThBrX0/view?usp=sharing](https://drive.google.com/file/d/1BrjjIilZd2lvh9z2zZtawgVMR-ThBrX0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
