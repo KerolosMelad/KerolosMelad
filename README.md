@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keroles Elkess gerges</h1>
 <h3 align="center">Junior Data Scientist</h3>
 
-- 📝 I regularly write machine learning articles on [medium](medium.com/@kmelad43)
+- 📝 I regularly write machine learning articles on [medium](https://medium.com/@kmelad43)
 
 - 📫 You can reach me via **Kmelad43@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BrjjIilZd2lvh9z2zZtawgVMR-ThBrX0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13Hywx0G8BZywLssES3VZQJfbcy7QapGh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
