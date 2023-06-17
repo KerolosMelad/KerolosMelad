@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keroles Elkess gerges</h1>
-<h3 align="center">Junior Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 📝 I regularly write machine learning articles on [medium](https://medium.com/@kmelad43)
 
